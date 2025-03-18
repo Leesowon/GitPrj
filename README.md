@@ -1,2 +1,0 @@
-# GitPrj
-git test
